@@ -35,6 +35,6 @@
  
  
 
-![Snake animation](https://github.com/Muguigoo/Murilo.Eduardo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Muguigoo/Muguioo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
