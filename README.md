@@ -33,7 +33,7 @@
  
  
  
- ![Snake animation](https://github.com/Muguigoo/Muguigoo/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
 
